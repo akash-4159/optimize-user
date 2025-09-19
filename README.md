@@ -3,5 +3,5 @@ This repository contains:
 - 📄 Project documentation (Optimizing User.docx)
 
 ## Document
-[Click here to view the document](https://github.com/akash-4159/optimize-user/blob/main/Optimizing%20User%20(2).docx)
+[Click here to view the document](https://github.com/akash-4159/optimize-user/blob/main/Optimizing%20User.docx)
 
